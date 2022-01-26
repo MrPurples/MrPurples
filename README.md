@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python (Python 3 Certificate) [MrPurpleCR's profile _ Codecademy.pdf](https://github.com/MrPurples/MrPurples/files/7744000/MrPurpleCR.s.profile._.Codecademy.pdf)
 - HTML Certificate [MrPurpleCR's profile _ Codecademy.pdf](https://github.com/MrPurples/MrPurples/files/7784868/MrPurpleCR.s.profile._.Codecademy.pdf)
 - CSS Certificate [MrPurpleCR's CSS.pdf](https://github.com/MrPurples/MrPurples/files/7824715/MrPurpleCR.s.CSS.pdf)
+- JavaScript Cerficicate [Java Script certificate.pdf](https://github.com/MrPurples/MrPurples/files/7940677/Java.Script.certificate.pdf)
 - 💞️ I’m looking to collaborate on any project i can learn and aquire new skills!
 - 📫 How to reach me: cormosrichard@gmail.com
 
